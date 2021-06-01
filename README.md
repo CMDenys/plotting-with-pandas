@@ -8,13 +8,17 @@ The first step in the study was to merge the data from multiple data sets.
 
 Once the data sets were merged, the data was checked for any mouse ID with duplicate time points.  It was found that mouse ID g989 had multiple time points listed, so data associated with that mouse ID was removed.  A check for the mouse count before and after the merge was conducted to ensure the data had been removed.  
 
-<p float="left" align="center">
-  <img src="images/2_mouseCheck.png" width="500" />
-  <img src="images/4_dfMerge.png" width="500" /> 
-  <img src="images/3_mouseCheck2.png" width="500" /> 
+<p align="center">
+  <img src="images/2_mouseCheck.png" width="400" />
+</p>
+<p align="center">
+  <img src="images/4_dfMerge.png" width="400" /> 
+</p>
+<p align="center">
+  <img src="images/3_mouseCheck2.png" width="400" /> 
 </p>
 
-images/3_mouseCheck2.png
+
 
 
 Before beginning the analysis, c
