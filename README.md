@@ -43,7 +43,7 @@ A pie plot was generated Pandas's DataFrame.plot() that shows the distribution o
 Next, the final tumor volume of each mouse across four of the most promising treatment regimens were analyzed.  These were: Capomulin, Ramicane, Infubinol, and Ceftamin.  To determine if there are any potential outliers across all four treatment regimens, the quartiles and IQR and quantitatively calculated.
 
 <p float="left" align="center">
-  <img src="images/9_treatmentForloop.png" width="550" />
+  <img src="images/9_treatmentForloop.png" width="575" />
   <img src="images/10_box.png" width="400" /> 
 </p>
 
