@@ -65,17 +65,17 @@ To gain further insights into the effects the Capomulin regimen had on tumor tre
 - <strong> A scatter plot of mouse weight versus average tumor volume. </strong>
 
 <p float="left" align="center">
-  <img src="images/13_scattercode.png" width="400" />
-  <img src="images/14_scatterPlot.png" width="400" /> 
+  <img src="images/13_scattercode.png" width="500" />
+  <img src="images/14_scatterPlot.png" width="500" /> 
 </p>
 
 - <strong> The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. </strong>
 
 <p float="left" align="center">
-  <img src="images/15_correlation.png" width="400" />
-  <img src="images/16_regression.png" width="400" /> 
+  <img src="images/15_correlation.png" width="500" />
+  <img src="images/16_regression.png" width="500" /> 
 </p>
 
 <p align="center">
-  <img src="images/17_regression2.png" width="575" />
+  <img src="images/17_regression2.png" width="650" />
 </p>
