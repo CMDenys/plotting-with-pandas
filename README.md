@@ -10,11 +10,11 @@ Once the data sets were merged, the data was checked for any mouse ID with dupli
 
 <p align="center">
   <img src="images/2_mouseCheck.png" width="300" />
-  <img src="images/3_dfMerge.png" width="300" /> 
-  <img src="images/4_mouseCheck2.png" width="300" /> 
+  <img src="images/3_mouseCheck2.png" width="300" /> 
+  <img src="images/4_dfMerge.png" width="300" /> 
 </p>
 
-
+images/3_mouseCheck2.png
 
 
 Before beginning the analysis, c
