@@ -76,6 +76,6 @@ To gain further insights into the effects the Capomulin regimen had on tumor tre
   <img src="images/16_regression.png" width="400" /> 
 </p>
 
-<p align="center>
-  <img scr="images/17_regression2.png" width="575>
+<p align="center">
+  <img src="images/17_regression2.png" width="575>
 </p>
