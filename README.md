@@ -18,33 +18,35 @@ Once the data sets were merged, the data was checked for any mouse ID with dupli
   <img src="images/3_mouseCheck2.png" width="500" /> 
 </p>
 
+Once the clean data frame was created, using the groupby method, a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen was produced.
+
+<p float="left" align="center">
+  <img src="images/5_groupbySummary.png" width="400" />
+  <img src="images/6_groupbyPic.png" width="400" />
+</p>
 
 
+Matplotlib's pyplot was used to show the total number of measurements taken for each treatment regimen throughout the course of the study.
 
-Before beginning the analysis, c
-
-
-Once complete, the cleaned data could be used for analysis.  
-
-
-Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+<p float="left" align="center">
+  <img src="images/7_barPlot.png" width="400" />
+</p>
 
 
-Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the total number of measurements taken for each treatment regimen throughout the course of the study.
+A pie plot was generated Pandas's DataFrame.plot() that shows the distribution of female or male mice in the study.
+
+<p float="left" align="center">
+  <img src="images/8_pieChart.png" width="400" />
+</p>
 
 
-NOTE: These plots should look identical.
+Next, the final tumor volume of each mouse across four of the most promising treatment regimens were analyzed.  These were: Capomulin, Ramicane, Infubinol, and Ceftamin.  To determine if there are any potential outliers across all four treatment regimens, the quartiles and IQR and quantitatively calculated.
 
+<p float="left" align="center">
+  <img src="images/9_treatmentForloop.png" width="400" />
+  <img src="images/10_box.png" width="400" /> 
+</p>
 
-
-Generate a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female or male mice in the study.
-
-
-NOTE: These plots should look identical.
-
-
-
-Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 
 
 Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
