@@ -79,3 +79,9 @@ To gain further insights into the effects the Capomulin regimen had on tumor tre
 <p align="center">
   <img src="images/17_regression2.png" width="650" />
 </p>
+
+<hr>
+<strong>From the data observed, the following can be inferred:</strong>
+1. The drug regimens with the highest measurement counts were Capomulin and Ramicane.
+2. The mice with the largest tumors and most metastic sites were those given a regimen of placebo drugs.
+3. The correlation coefficient between mouse weight and average tumor volume is 0.84, suggesting it is highly correlated
